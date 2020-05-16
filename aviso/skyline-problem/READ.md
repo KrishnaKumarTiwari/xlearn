@@ -1,15 +1,8 @@
-# Number to Word Conversion
-
-## Example 
-1--> One
-11 -> Eleven
+# Skyline Probem 
 
 
 ## How to run? 
 
-python3 problem3.py <INPUT_NUMBER>
+python3 problem3.py <INPUT_2DARRAY>
 
 
-## Test Runs
-
-![Screenshot](problem3.png)
