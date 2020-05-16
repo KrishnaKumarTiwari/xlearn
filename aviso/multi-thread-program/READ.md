@@ -1,15 +1,17 @@
-# Number to Word Conversion
+## Problem
 
-## Example 
-1--> One
-11 -> Eleven
-
-
-## How to run? 
-
-python3 problem3.py <INPUT_NUMBER>
+Create a multi-threaded program. One thread is a sender and the other is a 
+receiver. Information sharing to happen via a singleton object. Sender shall 
+read from terminal. Receiver shall save data to a txt file. 
+Processing to be done: Given a number, return the difference between the 
+maximum and minimum numbers that can be formed when the digits are 
+rearranged. 
 
 
-## Test Runs
 
-![Screenshot](problem3.png)
+## Example
+○ rearranged_difference(972882) ➞ 760833 
+988722 - 227889 = 760833 
+○ rearranged_difference(3320707) ➞ 7709823 
+7733200 - 23377 = 7709823 
+○ rearranged_difference(90010) ➞ 90981
