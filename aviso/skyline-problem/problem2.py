@@ -29,7 +29,6 @@ def skyline_analyzer(skyline_2d):
 
 
 def main(argv):
-    print(argv[0])
 #     argv[0] = [
 #   [1, 1, 0, 1],
 #   [1, 1, 1, 1],
